@@ -29,6 +29,8 @@ module.exports = eleventyConfig => {
 			loading: "lazy",
 			decoding: "async",
 		};
-		return eleventyImage.generateHTML(metadata, imageAttributes);
+		return "<div style='display: flex; justify-content: center;'>" +
+				eleventyImage.generateHTML(metadata, imageAttributes) + "</div>" + 
+				"<p style='font-size: 12px; display: flex; justify-content: center'>" + alt + "</p>";
 	});
 };

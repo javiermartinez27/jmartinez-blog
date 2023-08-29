@@ -1,7 +1,7 @@
 ---
 title: Fallout New Vegas - Comentario
 description: Comentario sobre el mítico título de Obsidian.
-date: 2023-08-22
+date: 2023-08-29
 tags: juegos
 ---
 Honestamente, no tengo mucho que decir sobre New Vegas que no se haya dicho ya. Hay un [video maravilloso](https://www.youtube.com/watch?v=gzF7aHxk4Y4) de hbomberguy explicando el por qué este juego es una genialidad, y es un buen lugar para saber sobre el juego si es que no lo conoces (el video tiene harto spoiler, eso sí). Dicho esto, igual quiero destacar algunas cosas que me llamaron harto.

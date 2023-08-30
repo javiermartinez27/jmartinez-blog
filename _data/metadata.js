@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Blog de JMartinez",
+	title: "Sea of thoughts",
 	url: "https://example.com/",
 	language: "es-ES",
 	description: "Pensamientos varios sobre varias cosas",

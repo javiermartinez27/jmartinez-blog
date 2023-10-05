@@ -8,15 +8,15 @@
 :root {
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
-	--color-gray-90: #DDD0C8;
+	--color-gray-90: #f3f4f6;
 
 	/* --text-color is assigned to --color-gray-_ above */
 	--text-color: var(--color-gray-90);
-	--text-color-link: #1493fb;
-	--text-color-link-active: #6969f7;
-	--text-color-link-visited: #a6a6f8;
+	--text-color-link: #666666;
+	--text-color-link-active: #505050;
+	--text-color-link-visited: var(--color-gray-90);
 
-	--background-color: #121212;
+	--background-color: #18181a;
 }
 
 @media (prefers-color-scheme: light) {
@@ -90,15 +90,12 @@ a[href]:active {
 }
 
 main {
-	padding: 1rem;
+	padding: 1rem 0rem;
 }
 main :first-child {
 	margin-top: 0;
 }
 
-header {
-	border-bottom: 1px dashed var(--color-gray-20);
-}
 header:after {
 	content: "";
 	display: table;
@@ -145,13 +142,14 @@ code {
 /* Header */
 header {
 	display: flex;
-	gap: 1em .5em;
+	gap: 1em 0em;
 	flex-wrap: wrap;
 	align-items: center;
-	padding: 1em;
+	padding: 3em 0em;
+	justify-content: space-between;
 }
 .home-link {
-	font-size: 1em; /* 16px /16 */
+	font-size: 1.5em; /* 16px /16 */
 	font-weight: 700;
 	margin-right: 2em;
 }
@@ -181,7 +179,6 @@ header {
 .postlist {
 	list-style: none;
 	padding: 0;
-	padding-left: 1.5rem;
 }
 .postlist-item {
 	display: flex;
@@ -189,32 +186,18 @@ header {
 	align-items: baseline;
 	counter-increment: start-from -1;
 	margin-bottom: 1em;
-}
-.postlist-item:before {
-	display: inline-block;
-	pointer-events: none;
-	content: "" counter(start-from, decimal-leading-zero) ". ";
-	line-height: 100%;
-	text-align: right;
-	margin-left: -1.5rem;
-}
-.postlist-date,
-.postlist-item:before {
-	font-size: 0.8125em; /* 13px /16 */
-	color: var(--color-gray-90);
+	justify-content: space-between;
 }
 .postlist-date {
 	word-spacing: -0.5px;
+	color: #787878;
 }
 .postlist-link {
-	font-size: 1.1875em; /* 19px /16 */
+	font-size: 1em;
 	font-weight: 700;
-	flex-basis: calc(100% - 1.5rem);
 	padding-left: .25em;
 	padding-right: .5em;
-	text-underline-position: from-font;
-	text-underline-offset: 0;
-	text-decoration-thickness: 1px;
+	text-decoration: none;
 }
 .postlist-item-active .postlist-link {
 	font-weight: bold;
@@ -267,4 +250,11 @@ a[href].header-anchor:focus,
 
 h2 + .header-anchor {
 	font-size: 1.5em;
+}
+
+@media screen and (max-width: 650px) {
+	body{
+		max-width: 90%;
+	}
+	
 }

@@ -17,7 +17,7 @@ Por otra parte, la historia y narrativa está bien. Me gusta que aún haya lugar
 
 {% image "./ac6-2.jpg", "@gamememories._ en Instagram", [350] %}
 
-No obstante, todo esto es bueno, *hasta que deja de serlo*. Y esto tiene una razón bien concreta: **el balance del juego es un desastre**. No es difícil toparse con las armas más rotas del juego, ya se encontrándolas por medio de la experimentación o en alguna discusión online, y encontrarlas rompe absolutamente todo lo mencionado sobre el combate y la narrativa.
+No obstante, todo esto es bueno, *hasta que deja de serlo*. Y esto tiene una razón bien concreta: **el balance del juego es un desastre**. No es difícil toparse con las armas más rotas del juego, ya sea encontrándolas por medio de la experimentación o en alguna discusión online, y encontrarlas rompe absolutamente todo lo mencionado sobre el combate y la narrativa.
 
 Obviamente esto es arreglable, pero dados los parches que han salido a la fecha, no creo que el arreglo que están haciendo sea el que deberían estar haciendo. Hay algunas armas y *builds* que hacen que los combates terminen en 60 segundos, saltándote toda la estrategia que deberías necesitar para afrontarlos, y haciendo que esos interesantes mensajes por radio que nos llegan sean prácticamente una anécdota. La rapidez le quita la emoción al combate, a la narrativa, y vuelve al juego en una especie de *boss rush* que realmente termina por empobrecer hasta los diseños artísticos que tanto se esforzaron en crear.
 

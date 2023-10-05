@@ -9,7 +9,7 @@ Quiero partir comentando que, a pesar de lo que pueda decir a continuación, Arm
 
 {% image "./ac6-1.jpg", "@gamememories._ en Instagram", [500] %}
 
-Mencionar que, probablemente, esté comparándolo todo el tiempo con los *Soulsborne*. No jugué a ningún AC antes de este (cosa que hice a propósito), así que me parece lo más sensato compararlo con los otros juegos del director.
+Mencionar que mi cabeza estuvo comparándolo todo el tiempo con los *Soulsborne*. No jugué a ningún AC antes de este (cosa que hice a propósito), así que me parece lo más sensato compararlo con los otros juegos del director.
 
 El sistema de combate es increíble. Hay una variedad **ENORME** de armas, piernas, generadores, brazos y de todo lo que necesitas para armar tu AC. Cada una de estas cambia tu forma de combatir, siendo las piernas lo más importante; tener unas piernas de tanque te hará recibir todo el daño como un campeón, unas cuádruples harán que pases gran parte del combate en el cielo, mientras que las *patas de pollo* harán que estés presionando todo el rato el botón de impulso rápido para esquivar todo. Las armas por su parte hacen que cuides, de una forma u otra, las distancias a las que combates.
 

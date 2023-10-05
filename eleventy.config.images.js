@@ -29,7 +29,12 @@ module.exports = eleventyConfig => {
 			loading: "lazy",
 			decoding: "async",
 		};
-		return "<div style='display: flex; justify-content: center;'>" +
+		let width = metadata.jpeg[0].width;
+		let mobileWidth = metadata.jpeg[0].width - 200;
+		console.log("width", width);
+		return "<style scoped>img{width:" + width + "px; height:auto;} " + 
+				"@media only screen and (max-width:" + width + "px){img{width:" + mobileWidth + "px; height:auto;}}</style>" +
+				"<div style='display: flex; justify-content: center;'>" +
 				eleventyImage.generateHTML(metadata, imageAttributes) + "</div>" + 
 				"<p style='font-size: 12px; display: flex; justify-content: center'>" + alt + "</p>";
 	});

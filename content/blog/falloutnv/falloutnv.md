@@ -1,5 +1,5 @@
 ---
-title: Fallout New Vegas - Comentario
+title: Fallout New Vegas
 description: Comentario sobre el mítico título de Obsidian.
 date: 2023-08-29
 tags: juegos

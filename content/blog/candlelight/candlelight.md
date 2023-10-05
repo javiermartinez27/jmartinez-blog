@@ -1,5 +1,5 @@
 ---
-title: Candlelight - Tributo a Hans Zimmer a la luz de las velas.
+title: Candlelight
 description: Asistimos a un concierto a la luz de las velas en Matucana 100.
 date: 2023-08-23
 tags: Panoramas

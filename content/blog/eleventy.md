@@ -1,5 +1,5 @@
 ---
-title: Eleventy - Generando sitios estáticos fácilmente.
+title: Eleventy
 description: Veamos cómo generé este blog usando Eleventy.
 date: 2023-08-22
 tags: dev

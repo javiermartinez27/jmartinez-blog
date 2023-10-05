@@ -7,7 +7,7 @@
 /* Theme colors */
 :root {
 	--color-gray-20: #e0e0e0;
-	--color-gray-50: #C0C0C0;
+	--color-gray-50: #787878;
 	--color-gray-90: #f3f4f6;
 
 	/* --text-color is assigned to --color-gray-_ above */
@@ -190,7 +190,7 @@ header {
 }
 .postlist-date {
 	word-spacing: -0.5px;
-	color: #787878;
+	color: var(--color-gray-50);
 }
 .postlist-link {
 	font-size: 1em;
@@ -250,6 +250,14 @@ a[href].header-anchor:focus,
 
 h2 + .header-anchor {
 	font-size: 1.5em;
+}
+
+footer {
+	border-top: 1px solid var(--color-gray-50);
+	padding: 2em 0em;
+	display: flex;
+	justify-content: end;
+	gap: 10px
 }
 
 @media screen and (max-width: 650px) {

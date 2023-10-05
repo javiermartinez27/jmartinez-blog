@@ -1,5 +1,5 @@
 ---
-title: Armored Core VI - Comentario
+title: Armored Core VI
 description: Comentario sobre el el último título de From Software.
 date: 2023-10-03
 tags: juegos

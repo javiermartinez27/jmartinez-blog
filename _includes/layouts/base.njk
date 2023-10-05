@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="{{ metadata.language }}">
 	<head>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ title or metadata.title }}</title>
@@ -29,7 +30,12 @@
 		{# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
 
 		{#- Render the CSS bundle using Inlined CSS (for the fastest site performance in production) #}
-		<style>{% getBundle "css" %}</style>
+		<style>
+			{% getBundle "css" %}
+			body {
+				font-family: "Raleway", sans-serif;
+			}
+		</style>
 		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
 		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 	</head>
@@ -37,7 +43,7 @@
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 		<header>
-			<a href="/" class="home-link">{{ metadata.title }}</a>
+			<a href="/" class="home-link">{{ metadata.title }}	</a>
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
 			<nav>

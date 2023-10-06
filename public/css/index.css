@@ -12,7 +12,7 @@
 
 	/* --text-color is assigned to --color-gray-_ above */
 	--text-color: var(--color-gray-90);
-	--text-color-link: #666666;
+	--text-color-link: var(--color-gray-90);
 	--text-color-link-active: #505050;
 	--text-color-link-visited: var(--color-gray-90);
 

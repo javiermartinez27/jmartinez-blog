@@ -18,7 +18,7 @@ Una de las cosas que me encantó del original era que cada descubrimiento lo ten
 
 ## Ooblets
 
-Este juego es tiernísimo, y tiene una ambientación muy tierna, me dan ganas de hacerle nanai.
+Este juego es tiernísimo, me dan ganas de hacerle nanai.
 
 Tristemente, esto es todo lo que el juego tiene. Es el típico caso de abarcar mucho y no apretar nada; tienes granja, captura de monstruos como Pokémon, recolección de cosas varias, decoración de bases, crafteo, amistad con los vecinos, batallas de baile con cartas, misiones, etc, etc, etc. Pero **nada** de esto está desarrollado a profundidad. 
 

@@ -3,6 +3,7 @@ title: Anytype y mi segundo cerebro
 description: Cómo estoy usando Anytype para organizar mi mente.
 date: 2023-12-11
 tags: otros
+image: "./antytype-000.jpg"
 ---
 Este año tuve un par de cambios. Me fui a vivir con mi pareja, siendo nuestra primera vez viviendo solos. Adoptamos un perro. Me cambié de trabajo. Nueva ciudad, nueva mascota, gente nueva. ~~Muchos~~ Nuevos gastos. 
 

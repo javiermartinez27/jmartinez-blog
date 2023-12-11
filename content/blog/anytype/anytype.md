@@ -2,9 +2,9 @@
 title: Anytype y mi segundo cerebro
 description: Cómo estoy usando Anytype para organizar mi mente.
 date: 2023-12-11
-tags: dev, otros
+tags: otros
 ---
-Este año tuve un par de cambios. Me fui a vivir con mi pareja, lo cual es mi primera vez viviendo solo. Adoptamos un perro. Me cambié de trabajo. Nueva ciudad, nueva mascota, gente nueva. ~~Muchos~~ Nuevos gastos. 
+Este año tuve un par de cambios. Me fui a vivir con mi pareja, siendo nuestra primera vez viviendo solos. Adoptamos un perro. Me cambié de trabajo. Nueva ciudad, nueva mascota, gente nueva. ~~Muchos~~ Nuevos gastos. 
 
 Bueno, tuve varios cambios.
 
@@ -22,7 +22,7 @@ Todo esto coincidió con un golpe de empezar a considerar un poco más el softwa
 
 Esta razón fue, inicialmente, por la que no opté por Obsidian, y me decanté por Anytype. Además, visualemente Anytype se parece un montón a Notion, a diferencia de la fealdad que es Obsidian. Así que fui a la página, lo instalé, y me puse a usarlo como mi app de notas. Lo más importante; tiene cliente para Android y Mac, y estos se sincronizan
 
-Pero lo que comenzó como una necesidad de anotar cosas simples, terminó siendo una obsesión por ordenar mi vida completa. Conocí lo que denominan **segundo cerebro**... y ahí fue cuando Anytype me empezó a desesperar (un poco, sigan leyendo porque al final me quedé ahí).
+Pero lo que comenzó como una necesidad de anotar cosas simples, terminó siendo una obsesión por ordenar mi vida completa. Conocí lo que denominan [**segundo cerebro**](https://www.youtube.com/watch?v=WqKluXIra70)... y ahí fue cuando Anytype me empezó a desesperar (un poco, sigan leyendo porque al final me quedé ahí).
 
 Consideré cambiarme a Obsidian, porque a pesar de no ser *open source*, tiene buenos comentarios al respecto y mucha gente lo usa. Pero me seguía pareciendo feísimo y, el delito más grave, no se sincroniza entre Mac y Android de manera nativa (se puede hacer, pagando, lo que no era opción, o instalando un plugin y configurándolo, y si Anytype ya me estaba dando pereza, tampoco quería hacer eso). Notion podía ser una opción, pero por alguna razón no confío en ellos (y no es que me interese de sobremanera mi privacidad o seguridad, tampoco es que esté guardando secretos de estado en mis notas).
 
@@ -34,4 +34,4 @@ Hoy, tengo mi página principal en donde puedo acceder rápidamente a diferentes
 
 Lo más potente de todo esto, es la capacidad de, hoy, organizar todo lo que quiero organizar. Por ejemplo, si antes tenía una página de la libreta en donde ponía los juegos que había jugado en el año, hoy creo una nota con el título del juego, y le pongo como "propiedad" el año en que lo jugué. Después, puedo crear un filtro en mi sección donde veo todos mis juegos, y ver automáticamente los juegos que he jugado durante el año. Así con cualquier propiedad que se me ocurra, como el año en que salió el juego, cuántas horas lo jugué, si lo terminé o no, etc.
 
-Me alargué de sobremanera con esta nota, pero empezar a usar esta App ha sido algo destacado de este año, y confío en que seguirá ayudándome a organizarme y bajar mis niveles de ansiedad. Si pude hacer hasta mi lista de gastos mensuales, en la cual puedo ver detalladamente en qué me estoy excediento ~~siempre es en los delivery~~.
+Me alargué de sobremanera con esta nota, pero empezar a usar esta App ha sido algo destacado de este año, y confío en que seguirá ayudándome a organizarme y bajar mis niveles de ansiedad. Si pude hacer hasta mi lista de gastos mensuales, en la cual puedo ver detalladamente en qué me estoy excediendo ~~aunque sé que siempre es en los delivery~~.

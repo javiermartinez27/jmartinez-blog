@@ -24,13 +24,13 @@
 		--color-gray-20: #e0e0e0;
 		--color-gray-50: #C0C0C0;
 		--color-gray-90: #787878;
-	
+
 		--background-color: #DDD0C8;
-	
+
 		--text-color-link: #d17300;
 		--text-color-link-active: #a26723;
 		--text-color-link-visited: #b96c34;
-	
+
 		--syntax-tab-size: 2;
 	}
 }
@@ -54,6 +54,12 @@ html {
 }
 body {
 	max-width: 40em;
+}
+pre {
+	overflow: auto;
+}
+pre[class*="language-"], code[class*="language-"] {
+	tab-size: 2;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -264,5 +270,5 @@ footer {
 	body{
 		max-width: 90%;
 	}
-	
+
 }

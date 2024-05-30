@@ -5,7 +5,7 @@ date: 2024-05-23
 tags: juegos
 ---
 
-Hace mucho rato que no le dedico un rato a escribir. Tengo que retomar esta constumbre, así que creo que volveré a escribir una reseña por cada juego que juegue. Pero tengo que ponerme al día, porque ahora me doy cuenta de que he jugado *bastante*.
+Hace mucho rato que no le dedico un rato a escribir. Tengo que retomar esta costumbre, así que creo que volveré a escribir una reseña por cada juego que juegue. Pero tengo que ponerme al día, porque ahora me doy cuenta de que he jugado *bastante*.
 
 ## Outer Wilds: Echoes of the Eye
 
@@ -21,7 +21,7 @@ De todas maneras, jueguen Outer Wilds, por favor.
 
 **Siempre** estoy buscando algo que toque la fibra que Stardew Valley toca. Esa calidez y escape de la vida que el simulador de granja por excelencia sabe provocar muy bien. Hace unos meses probé Ooblets, y en esta ocasión lo intenté con Coral Island.
 
-Quizá sea el que más cerca está de hacer lo mismo que Stardew Valley, y quizá sea injusto comparar (o quizás no, después de todo, SV está hecho por una sola persona), pero es que es inevitable, porque Coral Island es, en un 80%, *idéntico* al juego de Eric Barone. Pero... no es igual. 
+Quizá sea el que más cerca está de hacer lo mismo que Stardew Valley, y quizá sea injusto comparar (o quizás no, después de todo, SV está hecho por una sola persona), pero es que es inevitable, porque Coral Island es, en un 80%, *idéntico* al juego de Eric Barone. Pero... no es igual.
 
 {% image "./coral-island.jpg", "", [500] %}
 
@@ -33,13 +33,13 @@ Es un juego muy cortito (howlongtobeat lo estima en 3 horas), y aún así no tuv
 
 ## Octopath Traveler 2
 
-Este juego se debería llevar el premio al más infravalorado de todo 2023. Es un **juegazo**. No soy mucho de JRPG, pero este me logró enganchar y cautivar. Entre la música, las visuales, un sistema de combate muy entrenido, y una narrativa peculiar que cuenta 8 historias y las conecta mediante pequeñas referencias, hay pocas cosas que criticarle al juego. No tengo mucho que decir, salvo recomendarlo encarecidamente a lo mínimo que te gusten un poco los JRPG (o los combates por turnos).
+Este juego se debería llevar el premio al más infravalorado de todo 2023. Es un **juegazo**. No soy mucho de JRPG, pero este me logró enganchar y cautivar. Entre la música, las visuales, un sistema de combate muy entretenido, y una narrativa peculiar que cuenta 8 historias y las conecta mediante pequeñas referencias, hay pocas cosas que criticar al juego. No tengo mucho que decir, salvo recomendarlo encarecidamente a lo mínimo que te gusten un poco los JRPG (o los combates por turnos).
 
 {% image "./octopath-traveler-2.jpg", "", [500] %}
 
 ## Dome Keeper
 
-Me gustan los roguelike/lite, pero no soy mucho de invertirles 23948203949 como para sacarles todo el jugo. No obstante, creo saber diferenciar cuando hay juegos que efectivamente pueden darte esa cantidad de horas de contenido. 
+Me gustan los roguelike/lite, pero no soy mucho de invertirles 23948203949 horas como para sacarles todo el jugo. No obstante, creo saber diferenciar cuando hay juegos que efectivamente pueden darte esa cantidad de horas de contenido.
 
 *Dome Keeper* no es uno de ellos. Jugué poco menos de 10 horas, y creo haber visto todo lo que el juego tenía que ofrecerme. Evidentemente esto no es así, pero las variaciones que hasta ese momento iban apareciendo eran tan menores, que realmente no me daban razones para querer seguir intentando nuevas estrategias o jugar nuevas *runs*. Eso sí, el loop de juego es bien interesante.
 
@@ -57,11 +57,11 @@ Ahora, si lo juzgo como un juego nuevo, ignorando el original, *pos ta' bien*. L
 
 Este juego me hizo enamorarme de los *roguelike*. Hoy, para mí, sigue siendo el GOAT 🐐 a nivel de *gameplay* de este género. Es... *muh divertido*... y me demoré 7 años en lograr ganar una partida.
 
-A pesar de tener una variedad absurda de armas, no te vuelve dependiente de ellas. Sí, hay algunas que están rotísimas y prácticamente te aseguran ganar una partida pero, en general, es un juego en el que dependes mucho de tu habilidad y conocimiento del mismo. 
+A pesar de tener una variedad absurda de armas, no te vuelve dependiente de ellas. Sí, hay algunas que están rotísimas y prácticamente te aseguran ganar una partida pero, en general, es un juego en el que dependes mucho de tu habilidad y conocimiento del mismo.
 
 {% image "./enter-the-gungeon.jpg", "El peor jefe del juego, con diferencia", [500] %}
 
-Me encanta este juego, pero se me queda corto en una cosa: cosas que hacer después de ganar un par de partidas. Y mira que hay harto, pero la misma dificultad del juego hace que, por ejemplo, ir al piso 6 de la mazmorra, o desbloquear a los personajes ocultos, se haga tedioso. Esto se combina con lo difícil que hacer sinergias entre armas/objetos, porque en general tienes 0 posibilidad de elegir las cosas que quieres llevar.
+Me encanta este juego, pero se me queda corto en una cosa: cosas que hacer después de ganar un par de partidas. Y mira que hay harto, pero la misma dificultad del juego hace que, por ejemplo, ir al piso 6 de la mazmorra, o desbloquear a los personajes ocultos, se haga tedioso. Esto se combina con lo difícil que es hacer sinergias entre armas/objetos, porque en general tienes 0 posibilidad de elegir las cosas que quieres llevar.
 
 ## Animal Well
 
@@ -69,7 +69,7 @@ Es un *metroidvania* peculiar; no tiene combate ni historia, solo *vibes* inmacu
 
 Me faltó la historia. Creo que lo que más me gusta de este género es que la misma historia sea la que me lleva a descubrir lugares y objetos ocultos. Como aquí eso no existe, la forma de encontrar estas cosas es, o topándotelas por casualidad, o explorando a fondo. Cosa que, insisto, me debería encantar... pero no lo hace, a pesar de que la exploración está super bien llevada.
 
-Mis respetos a la dedicación del creador por poner capas de puzzles eso sí. Para el que quiera, aquí hay muuuuucho contenido que sacar (casi al nivel de *FEZ*, por ejemplo). Mi problema es que, sin una historia de la que tirar, no tengo ningún interés en encontrar todos esos secretos tan bien guardados. 
+Mis respetos a la dedicación del creador por poner capas de puzzles eso sí. Para el que quiera, aquí hay muuuuucho contenido que sacar (casi al nivel de *FEZ*, por ejemplo). Mi problema es que, sin una historia de la que tirar, no tengo ningún interés en encontrar todos esos secretos tan bien guardados.
 
 {% image "./animal-well.jpg", "", [500] %}
 
@@ -109,11 +109,11 @@ En PS5, los tiempos de carga son espantosos. No me sería un problema en el 95% 
 
 {% image "./bg3-1.jpg", "", [500] %}
 
-¿Cuál es la necesidad de hacer todo *TAN* grande? Perfectamente se podrían haber cortado un par de misiones que no aportan en nada para pulir las que si lo hacen. Hay ocasiones en que cosas importantes quedan a merced de que tú vuelvas al campamento... y otras veces el juego simplemente te lleva allá sin preguntarte demasiado. Ese tipo de incosistencias se repiten varias veces y siempre me hacen levantar una ceja.
+¿Cuál es la necesidad de hacer todo *TAN* grande? Perfectamente se podrían haber cortado un par de misiones que no aportan en nada para pulir las que si lo hacen. Hay ocasiones en que cosas importantes quedan a merced de que tú vuelvas al campamento... y otras veces el juego simplemente te lleva allá sin preguntarte demasiado. Ese tipo de inconsistencias se repiten varias veces y siempre me hacen levantar una ceja.
 
-La falta de tutoriales es realmente un problema. Entiendo que quizás el *target* es gente con un poco de experiencia en este tipo de juego que no necesta que la lleven de la mano, pero para quienes llegan a los CRPG a través de este juego esto puede echar para atrás (y con la fama que ha tenido el juego no me extrañaría que este fuese un grupo grande). Salvo algunas excepciones, no me gusta cuando tengo que recurrir a internet para entender un juego, y aquí tuve que hacerlo constantemente.
+La falta de tutoriales es realmente un problema. Entiendo que quizás el *target* es gente con un poco de experiencia en este tipo de juego que no necesita que la lleven de la mano, pero para quienes llegan a los CRPG a través de este juego esto puede echar para atrás (y con la fama que ha tenido el juego no me extrañaría que este fuese un grupo grande). Salvo algunas excepciones, no me gusta cuando tengo que recurrir a internet para entender un juego, y aquí tuve que hacerlo constantemente.
 
-Finalmente, y lo que sospecho que me hizo dejar el juego, es la inconsistencia para contar la historia. Hay momentos increíbles, como el final del acto 2. También el lore, y la forma de transmitirlo, está muy bien (aunque esto era difícil de no hacerlo bien considerando la cantidad de lore que hay de D&D). Pero la historia principal es... muy poco interesante. La historia de la mayoría de compañeros me gusta, pero cuando las terminas solo te queda tu historia principal que, sin entrar en spoilers, se trata básicamente de salvar Baldur's Gate. 
+Finalmente, y lo que sospecho que me hizo dejar el juego, es la inconsistencia para contar la historia. Hay momentos increíbles, como el final del acto 2. También el lore, y la forma de transmitirlo, está muy bien (aunque esto era difícil de no hacerlo bien considerando la cantidad de lore que hay de D&D). Pero la historia principal es... muy poco interesante. La historia de la mayoría de compañeros me gusta, pero cuando las terminas solo te queda tu historia principal que, sin entrar en spoilers, se trata básicamente de salvar Baldur's Gate.
 
 Pero, ¿por qué querría salvarlos? Y sí, puedes aliarte con los malos o tomar tus propias decisiones pero... ¿por qué lo harías? Al final del Acto 2/principios del 3 aparecen nuevos personajes que, al parecer, son super importantes para la trama. Pero, ¿por qué me interesarían? Llevo 80 horas en el juego y ya tuve una batalla que se siente 100% como un jefe final, que me metas nuevos grandes malulos y una zona que es tan grande como el resto del juego solo me hace sentir que me estás alargando el juego artificialmente.
 
@@ -122,10 +122,11 @@ Me gustó Baldur's Gate 3, pero no lo suficiente como para justificar terminarlo
 {% image "./bg3-2.jpeg", "", [500] %}
 
 Eso. Nota larga, la próxima no lo será porque no dejaré que se me acumulen más juegos.
+
 <!---
 ## Pokémon Heart Gold
 
-*Pokémon Cristal* es mi favorito de la saga. Me picó el bichito por volver a jugar estos juegos, y aunque quise jugar a ese favorito, siempre he leído buenos comentarios sobre el *remake* de DS y nunca me di el tiempo de jugarlo realmente, así que me pareció un buen momento de hacerlo. 
+*Pokémon Cristal* es mi favorito de la saga. Me picó el bichito por volver a jugar estos juegos, y aunque quise jugar a ese favorito, siempre he leído buenos comentarios sobre el *remake* de DS y nunca me di el tiempo de jugarlo realmente, así que me pareció un buen momento de hacerlo.
 
 Me traté de autoimponer 2 condiciones; no atrapar a los mismos de siempre y no usar fast-forward, no funcionó
 

@@ -1,6 +1,6 @@
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: 'Libre Franklin', -apple-system, 'Helvetica Neue', sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -51,6 +51,7 @@ body {
 	font-family: var(--font-family);
 	color: var(--text-color);
 	background-color: var(--background-color);
+	font-size: 18px;
 }
 html {
 	overflow-y: scroll;
@@ -71,6 +72,10 @@ pre[class*="language-"], code[class*="language-"] {
 	position: absolute;
 	white-space: nowrap;
 	width: 1px;
+}
+
+h1{
+	font-size: 1.5rem; /* 32px /16 */
 }
 
 p:last-child {
@@ -97,9 +102,15 @@ a[href]:active {
 
 main {
 	padding: 1rem 3vw;
+	margin: 0px auto;
 }
 main :first-child {
 	margin-top: 0;
+}
+
+.post-container {
+	padding: 1rem 25vw;
+	margin: 0px auto;
 }
 
 .links-nextprev {
@@ -228,12 +239,14 @@ header {
 
 /* Tags list */
 .post-metadata {
-	display: inline-flex;
+	display: flex;
 	flex-wrap: wrap;
 	gap: .5em;
 	list-style: none;
 	padding: 0;
-	margin: 0;
+	margin: 5vh 0;
+	font-size: 0.8rem;
+	justify-content: center;
 }
 .post-metadata time {
 	margin-right: 1em;

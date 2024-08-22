@@ -1,6 +1,7 @@
 ---
 title: Elden Ring
 description: Crítica a Elden Ring y su DLC.
+mainimage: ../content/blog/eldenring/eldenring1.JPG
 date: 2024-07-30
 tags: juegos
 ---
@@ -9,7 +10,7 @@ Soy fan de los juegos de From Software, así mal. Soy de esos que creen que sus 
 
 *Elden Ring*, dentro de todo, no fue la excepción. Mi primera partida me encantó y le metí 120 horas. Consideré que su historia era la mejor de todo lo que ha hecho Miyazaki, y que la impresionante variedad de armas, magias y opciones lo hacían también el poseedor del mejor sistema de combate. Sí es verdad que se me hizo demasiado largo para alguien acostumbrado a querer verlo **todo** en estos juegos... y también es verdad que utilicé todo el arsenal que el juego te da a su disposición; invocaciones y cenizas rotísimas. Estos dos últimos detalles se me hicieron muy notorios al final, por lo que quedé con un mal sabor de boca, a pesar de que disfruté como un niño al menos 100 de las 120 horas.
 
-{% image "./eldenring1.JPG", "@gamememories._ en Instagram", [500] %}
+{% image "./eldenring1.JPG", "@gamememories._ en Instagram", [1000] %}
 
 Con el lanzamiento del DLC comencé una nueva partida, en la que voluntariamente no hice casi ningún *mini-dungeon* (a excepción de cuando necesitaba piedras para mejorar las armas) y apenas derroté a un par de jefes de esos random que aparecen por el mapa. También probé las magias y, voluntariamente, no usé ninguna invocación.
 

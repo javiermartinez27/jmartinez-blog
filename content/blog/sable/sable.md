@@ -3,6 +3,8 @@ title: Sable
 description: Echa un vistazo al resto de tu vida.
 date: 2024-06-09
 tags: juegos
+mainimage: ../content/blog/sable/sable-1.jpg
+
 ---
 
 > *"¿Por qué exploramos? ¿Qué nos impulsa a ello? ¿Estamos buscando nuestro propósito en la vida? ¿O acaso le cumplimos los caprichos a nuestra libertad?."*

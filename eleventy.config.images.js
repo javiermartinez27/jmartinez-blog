@@ -44,7 +44,7 @@ module.exports = eleventyConfig => {
 		let width = widths ? widths[0] : dimensions.width;
 		let height = widths ? widths[0] * dimensions.height / dimensions.width : dimensions.height;
 		return "<style scoped>." + fileNameWithoutExtension + "{width:" + width + "px; height:" + height + "px;}</style>" +
-			"<div style='display: flex; justify-content: center; margin-top: 5rem'>" +
+			"<div style='display: flex; justify-content: center;'>" +
 			eleventyImage.generateHTML(metadata, imageAttributes) + "</div>" + 
 			"<p style='font-size: 12px; display: flex; justify-content: center; margin-bottom: 5rem'>" + alt + "</p>";
 	});

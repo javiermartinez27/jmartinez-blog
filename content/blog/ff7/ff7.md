@@ -3,7 +3,7 @@ title: Final Fantasy VII (1997)
 description: Comentario sobre el mítico JRPG
 date: 2024-08-01
 tags: juegos
-mainimage: ../content/blog/ff7/ffvii-1.gif
+mainimage: ../content/blog/ff7/ff7-main.gif
 ---
 
 *Final Fantasy VII* para mí era un eterno pendiente. Lo debo haber comenzado 5 veces, y nunca pasé más allá de Midgar (de hecho creo que nunca llegué más allá de las 5 horas). Nunca fue porque me haya parecido un mal juego, todo lo contrario, solo pasaron cosas cada vez que lo jugaba que me impedían seguir (como vender la tablet, o que se me acabó PS Plus).

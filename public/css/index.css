@@ -17,7 +17,9 @@
 	--text-color-link-visited: var(--color-gray-90);
 
 	--background-color: #12110C;
+	--hover-color: #FDFDF5;
 	--header-border-color: #7F7F7F;
+	--divider-color: #FFFFFF;
 }
 
 @media (prefers-color-scheme: light) {
@@ -204,21 +206,25 @@ header {
 }
 .postlist-item {
 	display: flex;
-	flex-wrap: wrap;
-	align-items: baseline;
-	counter-increment: start-from -1;
-	margin-bottom: 1em;
+	align-items: center;
 	justify-content: space-between;
+	border-bottom: 0.5px solid var(--divider-color);
+	padding: 5vh 0;
 }
+
+.postlist-item:hover {
+	background-color: var(--hover-color);
+}
+
 .postlist-date {
 	word-spacing: -0.5px;
 	color: var(--color-gray-50);
 }
 .postlist-link {
-	font-size: 1em;
+	display: flex;
+	flex-direction: column;
+	font-size: 1.75em;
 	font-weight: 700;
-	padding-left: .25em;
-	padding-right: .5em;
 	text-decoration: none;
 }
 .postlist-item-active .postlist-link {

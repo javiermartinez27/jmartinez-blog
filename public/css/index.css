@@ -6,33 +6,24 @@
 
 /* Theme colors */
 :root {
-	--color-gray-20: #e0e0e0;
-	--color-gray-50: #787878;
-	--color-gray-90: #f3f4f6;
-
-	/* --text-color is assigned to --color-gray-_ above */
-	--text-color: var(--color-gray-90);
-	--text-color-link: var(--color-gray-90);
-	--text-color-link-active: #505050;
-	--text-color-link-visited: var(--color-gray-90);
+	--text-color: #f3f4f6;
 
 	--background-color: #12110C;
 	--hover-color: #FDFDF5;
+
 	--header-border-color: #7F7F7F;
 	--divider-color: #FFFFFF;
 }
 
 @media (prefers-color-scheme: light) {
 	:root {
-		--color-gray-20: #e0e0e0;
-		--color-gray-50: #C0C0C0;
-		--color-gray-90: #787878;
+		--text-color: #000000;
 
 		--background-color: #FDFDF5;
+		--hover-color: #12110C;
 
-		--text-color-link: #d17300;
-		--text-color-link-active: #a26723;
-		--text-color-link-visited: #b96c34;
+		--header-border-color: #12110C;
+		--divider-color: #000000;
 
 		--syntax-tab-size: 2;
 	}
@@ -76,6 +67,11 @@ pre[class*="language-"], code[class*="language-"] {
 	width: 1px;
 }
 
+a {
+	cursor: pointer;
+	color: var(--text-color);
+}
+
 h1{
 	font-size: 1.5rem; /* 32px /16 */
 }
@@ -91,23 +87,8 @@ li {
 	line-height: 1.5;
 }
 
-a[href] {
-	color: var(--text-color-link);
-}
-a[href]:visited {
-	color: var(--text-color-link-visited);
-}
-a[href]:hover,
-a[href]:active {
-	color: var(--text-color-link-active);
-}
-
 main {
-	padding: 1rem 3vw;
 	margin: 0px auto;
-}
-main :first-child {
-	margin-top: 0;
 }
 
 .post-container {
@@ -117,7 +98,7 @@ main :first-child {
 
 .links-nextprev {
 	list-style: none;
-	border-top: 1px dashed var(--color-gray-20);
+	border-top: 1px dashed var(--divider-color);
 	padding: 1em 0;
 }
 
@@ -209,16 +190,17 @@ header {
 	align-items: center;
 	justify-content: space-between;
 	border-bottom: 0.5px solid var(--divider-color);
-	padding: 5vh 0;
+	padding: 5vh 5vw;
+	text-decoration: none;
 }
 
 .postlist-item:hover {
 	background-color: var(--hover-color);
+	color: var(--background-color)
 }
 
 .postlist-date {
 	word-spacing: -0.5px;
-	color: var(--color-gray-50);
 }
 .postlist-link {
 	display: flex;
@@ -270,10 +252,6 @@ a[href].header-anchor:visited {
 	color: transparent;
 }
 a[href].header-anchor:focus,
-a[href].header-anchor:hover {
-	text-decoration: underline;
-}
-a[href].header-anchor:focus,
 :hover > a[href].header-anchor {
 	color: #aaa;
 }
@@ -283,7 +261,6 @@ h2 + .header-anchor {
 }
 
 footer {
-	border-top: 1px solid var(--color-gray-50);
 	padding: 2em 0em;
 	display: flex;
 	justify-content: end;
@@ -293,6 +270,10 @@ footer {
 @media screen and (max-width: 650px) {
 	body{
 		max-width: 90%;
+	}
+
+	.post-container{
+		padding: 1rem;
 	}
 
 }

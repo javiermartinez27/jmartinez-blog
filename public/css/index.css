@@ -34,6 +34,7 @@
 /* Global stylesheet */
 * {
 	box-sizing: border-box;
+	cursor: none !important;
 }
 
 html,
@@ -54,6 +55,32 @@ pre {
 }
 pre[class*="language-"], code[class*="language-"] {
 	tab-size: 2;
+}
+
+#cursor {
+	position: fixed;
+	z-index: 999;
+	transform: translate(-50%, -50%);
+	top: 200%;
+	left: 200%;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	pointer-events: none;
+	border: 1px solid;
+	mix-blend-mode: exclusion;
+	background-color: black;
+  
+	#circle {
+	  position: absolute;
+	  transform: translate(-50%, -50%);
+	  top: 50%;
+	  left: 50%;
+	  width: 25px;
+	  height: 25px;
+	  border-radius: 50%;
+	  background-color: white;
+	}
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */

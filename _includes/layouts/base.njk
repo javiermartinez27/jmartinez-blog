@@ -40,6 +40,11 @@
 		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 	</head>
 	<body>
+
+		<div id="cursor">
+			<div id="circle"></div>
+		</div>
+
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 		<header>
@@ -67,4 +72,18 @@
 
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
 	</body>
+	<script>
+
+		const cursor = document.getElementById('cursor')
+		if (cursor != null) {
+		window.addEventListener('mousemove', function (event) {
+			let xPosition = event.clientX * 100 / document.body.offsetWidth
+			let yPosition = event.clientY * 100 / window.innerHeight
+			cursor.style.top = yPosition + '%'
+			cursor.style.left = xPosition + '%'
+		})
+		}
+
+
+	</script>
 </html>

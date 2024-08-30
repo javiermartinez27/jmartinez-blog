@@ -3,6 +3,7 @@ title: ¿Qué más he jugado en 2024?
 description: Comentarios cortos sobre unos cuantos juegos.
 date: 2024-05-23
 tags: juegos
+mainimage: ../content/blog/otros-juegos-24-1/echoes-of-the-eye.jpg
 ---
 
 Hace mucho rato que no le dedico un rato a escribir. Tengo que retomar esta costumbre, así que creo que volveré a escribir una reseña por cada juego que juegue. Pero tengo que ponerme al día, porque ahora me doy cuenta de que he jugado *bastante*.

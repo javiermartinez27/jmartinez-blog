@@ -3,6 +3,7 @@ title: 60 horas de Baldur's Gate 3
 description: He jugado 60 horas del GOTY de 2023.
 date: 2024-03-12
 tags: juegos
+mainimage: ../content/blog/bg3-60hrs/bg3-1.jpg
 ---
 
 He jugado durante 60 horas a Baldur's Gate; y... recién salí del Acto I.

@@ -1,8 +1,9 @@
 ---
 title: Outer Wilds
-description: La obra maestra de explorar un pequeño sistema solar.
-date: 2024-01-03
+description: Comentario sobre Outer Wilds.
+date: 2023-12-11
 tags: juegos
+mainimage: ../content/blog/outerwilds/outer-wilds-2.jpg
 ---
 
 > *Está canción es nueva para mí, pero me honra formar parte de ella*
@@ -27,4 +28,4 @@ Y al final entendí mi lugar en el universo. Y entendí cosas que suceden en el 
 
 {% image "./outer-wilds-1.jpg", "https://www.echosmoker.com/", [500] %}
 
-Outer Wilds es una obra maestra. 
+Outer Wilds es una obra maestra.

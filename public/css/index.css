@@ -211,6 +211,7 @@ header {
 .postlist {
 	list-style: none;
 	padding: 0;
+	margin: 0;
 }
 .postlist-item {
 	display: flex;
@@ -238,6 +239,52 @@ header {
 }
 .postlist-item-active .postlist-link {
 	font-weight: bold;
+}
+
+.postlist-grid {
+	list-style: none;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	margin: 0;
+	padding: 0;
+	border-bottom: 0.5px solid var(--divider-color);
+}
+
+.postlist-grid li > .postlist-item {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	height: 100%;
+	border-right: 0.5px solid var(--divider-color);
+	border-bottom: 0.5px solid var(--divider-color);
+	padding: 1rem;
+}
+
+.postlist-grid li:nth-child(3n) > .postlist-item {
+	border-right: none;
+}
+
+.postlist-grid li:nth-last-child(-n+3):nth-last-child(3) ~ li > .postlist-item {
+	border-bottom: none;
+}
+
+.postlist-image-wrapper {
+	height: 200px; /* Adjust this value to your preferred image height */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+	margin-top: 2rem;
+}
+
+.postlist-content {
+	height: 200px;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	padding: 1rem;
+	margin-bottom: 5rem;
 }
 
 /* Tags */

@@ -3,6 +3,7 @@ title: ¿Qué más he jugado este año?
 description: Comentarios cortos sobre unos cuantos juegos.
 date: 2023-11-23
 tags: juegos
+mainimage: ../content/blog/otros-juegos-23/below-zero.jpg
 ---
 Aparte los juegos a los que les he dedicado entradas completas en este blog, he estado jugando a otras cosas más que no estoy seguro de que merezcan tantas palabras. Vamos allá.
 

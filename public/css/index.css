@@ -103,6 +103,11 @@ h1{
 	font-size: 1.5rem; /* 32px /16 */
 }
 
+h3 {
+	margin: 0.5em 0;
+	font-size: 1.25rem; /* 20px /16 */
+}
+
 p:last-child {
 	margin-bottom: 0;
 }
@@ -218,7 +223,7 @@ header {
 	align-items: center;
 	justify-content: space-between;
 	border-bottom: 0.5px solid var(--divider-color);
-	padding: 5vh 5vw;
+	padding: 5vh 10vw;
 	text-decoration: none;
 }
 
@@ -265,10 +270,6 @@ header {
 	border-right: none;
 }
 
-.postlist-grid li:nth-last-child(-n+3):nth-last-child(3) ~ li > .postlist-item {
-	border-bottom: none;
-}
-
 .postlist-image-wrapper {
 	height: 200px; /* Adjust this value to your preferred image height */
 	display: flex;
@@ -285,6 +286,11 @@ header {
 	justify-content: start;
 	padding: 1rem;
 	margin-bottom: 5rem;
+}
+
+.img-container {
+	width: 100%;
+	height: auto;
 }
 
 /* Tags */
@@ -359,6 +365,13 @@ footer {
 	.postlist-item {
 		display: flex;
 		flex-direction: column;
+		border-bottom: 1px solid var(--divider-color) !important;
+		border-right: none !important;
+
+	}
+	
+	.postlist-content {
+		margin-bottom: 2em;
 	}
 
 	#post-data {
@@ -367,10 +380,6 @@ footer {
 
 	.postlist-image-wrapper{
 		display: none;
-	}
-
-	.img-container {
-		width: 50%;
 	}
 
 }

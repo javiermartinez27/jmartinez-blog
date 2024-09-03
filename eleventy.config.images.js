@@ -34,25 +34,20 @@ module.exports = eleventyConfig => {
 		let imageAttributes = {
 			alt,
 			sizes,
-			class: fileNameWithoutExtension,
+			class: "img-container",
 			loading: "lazy",
 			decoding: "async",
 		}; 
 		
-		// Needed cause eleventyImage make GIFs look weird
-		let dimensions = sizeOf(file);
-		let width = widths ? widths[0] : dimensions.width;
-		let height = widths ? widths[0] * dimensions.height / dimensions.width : dimensions.height;
+		// // Needed cause eleventyImage make GIFs look weird
+		// let dimensions = sizeOf(file);
+		// let width = widths ? widths[0] : dimensions.width;
+		// let height = widths ? widths[0] * dimensions.height / dimensions.width : dimensions.height;
 
 		if(showText) {
-			return "<style scoped>." + fileNameWithoutExtension + "{width:" + width + "px; height:" + height + "px;}</style>" +
-				"<div class='img-container' style='display: flex; justify-content: center;'>" +
-				eleventyImage.generateHTML(metadata, imageAttributes) + "</div>" + 
-				"<p style='font-size: 12px; display: flex; justify-content: center; margin-bottom: 5rem'>" + alt + "</p>";
+			return eleventyImage.generateHTML(metadata, imageAttributes) + `<p style="font-size: 0.75rem;text-align: center">${alt}</p>`
 		} else {
-			return "<style scoped>." + fileNameWithoutExtension + "{width:" + width + "px; height:" + height + "px;}</style>" +
-				"<div class='img-container' style='display: flex; justify-content: center;'>" +
-				eleventyImage.generateHTML(metadata, imageAttributes) + "</div>"
+			return eleventyImage.generateHTML(metadata, imageAttributes)
 		}
 	});
 };

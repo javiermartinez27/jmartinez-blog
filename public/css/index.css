@@ -341,13 +341,36 @@ footer {
 	gap: 10px
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 900px) {
 	body{
 		max-width: 90%;
 	}
 
-	.post-container{
-		padding: 1rem;
+	.postlist {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.postlist-grid {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.postlist-item {
+		display: flex;
+		flex-direction: column;
+	}
+
+	#post-data {
+		order: 2;
+	}
+
+	.postlist-image-wrapper{
+		display: none;
+	}
+
+	.img-container {
+		width: 50%;
 	}
 
 }

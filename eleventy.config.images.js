@@ -46,12 +46,12 @@ module.exports = eleventyConfig => {
 
 		if(showText) {
 			return "<style scoped>." + fileNameWithoutExtension + "{width:" + width + "px; height:" + height + "px;}</style>" +
-				"<div style='display: flex; justify-content: center;'>" +
+				"<div class='img-container' style='display: flex; justify-content: center;'>" +
 				eleventyImage.generateHTML(metadata, imageAttributes) + "</div>" + 
 				"<p style='font-size: 12px; display: flex; justify-content: center; margin-bottom: 5rem'>" + alt + "</p>";
 		} else {
 			return "<style scoped>." + fileNameWithoutExtension + "{width:" + width + "px; height:" + height + "px;}</style>" +
-				"<div style='display: flex; justify-content: center;'>" +
+				"<div class='img-container' style='display: flex; justify-content: center;'>" +
 				eleventyImage.generateHTML(metadata, imageAttributes) + "</div>"
 		}
 	});

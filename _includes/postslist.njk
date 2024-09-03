@@ -1,19 +1,19 @@
 {%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %}
 <ol reversed class="postlist">
 {% for post in postslist | reverse %}
-	{% if loop.index0 < 2 %}
+	{% if loop.index0 <= 2 %}
 	<li>
 		<a href="{{ post.url }}" style="width: 100%;" class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		{% if loop.index0 == 0 %}
+		{% if loop.index0 % 2 == 0 %}
 			{% if post.data.mainimage %}
 				{% image post.data.mainimage, "", [400], "", false %}
 			{% endif %}
-			<div>
+			<div id="post-data">
 				<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
 				<p style="font-size: 1em; margin-top: 0.2rem;">{{ post.data.description }}</p>
 			</div>
 		{% else %}
-			<div>
+			<div id="post-data">
 				<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
 				<p style="font-size: 1em; margin-top: 0.2rem;">{{ post.data.description }}</p>
 			</div>
@@ -28,7 +28,7 @@
 </ol>
 <ol class="postlist-grid">
 {% for post in postslist | reverse %}
-	{% if loop.index0 >= 2 %}
+	{% if loop.index0 >= 3 %}
 	<li>
 		<a href="{{ post.url }}" style="width: 100%;" class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
 			{% if post.data.mainimage %}

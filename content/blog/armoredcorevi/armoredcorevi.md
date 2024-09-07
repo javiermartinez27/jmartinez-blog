@@ -7,7 +7,7 @@ tags: juegos
 
 Quiero partir comentando que, a pesar de lo que pueda decir a continuación, Armored Core VI sí me gustó. From Software sigue haciendo bien lo que sabe hacer bien; la ambientación es una locura. El diseño de niveles, de personajes, de cada una de las armas y partes con las que puedes personalizar tu AC. El diseño artístico también es un manjar; me dediqué gran parte del juego a sacar fotos con el Modo foto (que honestamente no me esperaba que existiese).
 
-{% image "./ac6-1.jpg", "@gamememories._ en Instagram", [500] %}
+{% image "./ac6-1.jpg", "@gamememories._ en Instagram", [1000] %}
 
 Mencionar que mi cabeza estuvo comparándolo todo el tiempo con los *Soulsborne*. No jugué a ningún AC antes de este (cosa que hice a propósito), así que me parece lo más sensato compararlo con los otros juegos del director.
 

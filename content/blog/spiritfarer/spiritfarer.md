@@ -3,6 +3,7 @@ title: Spiritfarer
 description: Comentario sobre Spiritfarer.
 date: 2023-12-11
 tags: juegos
+mainimage: ../content/blog/spiritfarer/spiritfarer.avif
 ---
 
 > *"Las personas que te quieren nunca se marchan del todo."*

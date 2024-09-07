@@ -1,36 +1,29 @@
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: 'Libre Franklin', -apple-system, 'Helvetica Neue', sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
 /* Theme colors */
 :root {
-	--color-gray-20: #e0e0e0;
-	--color-gray-50: #787878;
-	--color-gray-90: #f3f4f6;
-
-	/* --text-color is assigned to --color-gray-_ above */
-	--text-color: var(--color-gray-90);
-	--text-color-link: var(--color-gray-90);
-	--text-color-link-active: #505050;
-	--text-color-link-visited: var(--color-gray-90);
+	--text-color: #f3f4f6;
 
 	--background-color: #12110C;
+	--hover-color: #FDFDF5;
+
 	--header-border-color: #7F7F7F;
+	--divider-color: #FFFFFF;
 }
 
 @media (prefers-color-scheme: light) {
 	:root {
-		--color-gray-20: #e0e0e0;
-		--color-gray-50: #C0C0C0;
-		--color-gray-90: #787878;
+		--text-color: #000000;
 
 		--background-color: #FDFDF5;
+		--hover-color: #12110C;
 
-		--text-color-link: #d17300;
-		--text-color-link-active: #a26723;
-		--text-color-link-visited: #b96c34;
+		--header-border-color: #12110C;
+		--divider-color: #000000;
 
 		--syntax-tab-size: 2;
 	}
@@ -41,6 +34,7 @@
 /* Global stylesheet */
 * {
 	box-sizing: border-box;
+	cursor: none !important;
 }
 
 html,
@@ -51,6 +45,7 @@ body {
 	font-family: var(--font-family);
 	color: var(--text-color);
 	background-color: var(--background-color);
+	font-size: 18px;
 }
 html {
 	overflow-y: scroll;
@@ -60,6 +55,32 @@ pre {
 }
 pre[class*="language-"], code[class*="language-"] {
 	tab-size: 2;
+}
+
+#cursor {
+	position: fixed;
+	z-index: 999;
+	transform: translate(-50%, -50%);
+	top: 200%;
+	left: 200%;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	pointer-events: none;
+	border: 1px solid;
+	mix-blend-mode: exclusion;
+	background-color: black;
+  
+	#circle {
+	  position: absolute;
+	  transform: translate(-50%, -50%);
+	  top: 50%;
+	  left: 50%;
+	  width: 25px;
+	  height: 25px;
+	  border-radius: 50%;
+	  background-color: white;
+	}
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -73,6 +94,24 @@ pre[class*="language-"], code[class*="language-"] {
 	width: 1px;
 }
 
+a {
+	cursor: pointer;
+	color: var(--text-color);
+}
+
+a > img {
+	width: 50% !important;
+}
+
+h1{
+	font-size: 1.5rem; /* 32px /16 */
+}
+
+h3 {
+	margin: 0.5em 0;
+	font-size: 1.25rem; /* 20px /16 */
+}
+
 p:last-child {
 	margin-bottom: 0;
 }
@@ -84,27 +123,32 @@ li {
 	line-height: 1.5;
 }
 
-a[href] {
-	color: var(--text-color-link);
-}
-a[href]:visited {
-	color: var(--text-color-link-visited);
-}
-a[href]:hover,
-a[href]:active {
-	color: var(--text-color-link-active);
+main {
+	margin: 0px auto;
 }
 
-main {
-	padding: 1rem 3vw;
+.post-container {
+	margin: 0px auto;
+	width: 90%;
 }
-main :first-child {
-	margin-top: 0;
+
+.post-container p {
+	width: 70%;
+	margin: 2rem auto;
+}
+
+.post-container p:has(img.vertical-img) {
+	width: 50%;
+}
+
+.post-container p:has(img) {
+	width: 100%;
+	margin: 2rem auto 0.5rem auto;
 }
 
 .links-nextprev {
 	list-style: none;
-	border-top: 1px dashed var(--color-gray-20);
+	border-top: 1px dashed var(--divider-color);
 	padding: 1em 0;
 }
 
@@ -190,28 +234,81 @@ header {
 .postlist {
 	list-style: none;
 	padding: 0;
+	margin: 0;
 }
 .postlist-item {
 	display: flex;
-	flex-wrap: wrap;
-	align-items: baseline;
-	counter-increment: start-from -1;
-	margin-bottom: 1em;
+	align-items: center;
 	justify-content: space-between;
+	border-bottom: 0.5px solid var(--divider-color);
+	padding: 5vh 10vw;
+	text-decoration: none;
 }
+
+.postlist-item:hover {
+	background-color: var(--hover-color);
+	color: var(--background-color)
+}
+
 .postlist-date {
 	word-spacing: -0.5px;
-	color: var(--color-gray-50);
 }
 .postlist-link {
-	font-size: 1em;
+	display: flex;
+	flex-direction: column;
+	font-size: 1.75em;
 	font-weight: 700;
-	padding-left: .25em;
-	padding-right: .5em;
 	text-decoration: none;
 }
 .postlist-item-active .postlist-link {
 	font-weight: bold;
+}
+
+.postlist-grid {
+	list-style: none;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	margin: 0;
+	padding: 0;
+	border-bottom: 0.5px solid var(--divider-color);
+}
+
+.postlist-grid li > .postlist-item {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	height: 100%;
+	border-right: 0.5px solid var(--divider-color);
+	border-bottom: 0.5px solid var(--divider-color);
+	padding: 1rem;
+}
+
+.postlist-grid li:nth-child(3n) > .postlist-item {
+	border-right: none;
+}
+
+.postlist-image-wrapper {
+	height: 200px; /* Adjust this value to your preferred image height */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+	margin-top: 2rem;
+}
+
+.postlist-content {
+	height: 200px;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	padding: 1rem;
+	margin-bottom: 5rem;
+}
+
+.img-container {
+	width: 100%;
+	height: auto;
 }
 
 /* Tags */
@@ -228,12 +325,14 @@ header {
 
 /* Tags list */
 .post-metadata {
-	display: inline-flex;
+	display: flex;
 	flex-wrap: wrap;
 	gap: .5em;
 	list-style: none;
 	padding: 0;
-	margin: 0;
+	margin: 5vh 0;
+	font-size: 0.8rem;
+	justify-content: center;
 }
 .post-metadata time {
 	margin-right: 1em;
@@ -251,10 +350,6 @@ a[href].header-anchor:visited {
 	color: transparent;
 }
 a[href].header-anchor:focus,
-a[href].header-anchor:hover {
-	text-decoration: underline;
-}
-a[href].header-anchor:focus,
 :hover > a[href].header-anchor {
 	color: #aaa;
 }
@@ -264,16 +359,59 @@ h2 + .header-anchor {
 }
 
 footer {
-	border-top: 1px solid var(--color-gray-50);
 	padding: 2em 0em;
+	width: 90%;
 	display: flex;
 	justify-content: end;
 	gap: 10px
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 900px) {
 	body{
 		max-width: 90%;
+	}
+
+	a > img {
+		width: 100% !important;
+	}
+
+	.post-container p:has(img.vertical-img) {
+		width: 90%;
+	}
+
+	.postlist {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.postlist-grid {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.postlist-item {
+		display: flex;
+		flex-direction: column;
+		border-bottom: 1px solid var(--divider-color) !important;
+		border-right: none !important;
+
+	}
+	
+	.postlist-content {
+		margin-bottom: 2em;
+	}
+
+	.post-container p {
+		width: 90%;
+		margin: 2rem auto;
+	}
+
+	#post-data {
+		order: 2;
+	}
+
+	.postlist-image-wrapper{
+		display: none;
 	}
 
 }

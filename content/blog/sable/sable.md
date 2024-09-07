@@ -3,6 +3,8 @@ title: Sable
 description: Echa un vistazo al resto de tu vida.
 date: 2024-06-09
 tags: juegos
+mainimage: ../content/blog/sable/sable-1.jpg
+
 ---
 
 > *"¿Por qué exploramos? ¿Qué nos impulsa a ello? ¿Estamos buscando nuestro propósito en la vida? ¿O acaso le cumplimos los caprichos a nuestra libertad?."*
@@ -13,13 +15,13 @@ En su base, Sable es un *coming-of-age*. Sable, la protagonista, tiene que comen
 
 Este es, en primer lugar, un punto de partida perfecto para una historia de este tipo, y un punto de partida tremendo para un juego de mundo abierto. Además, el hecho de no tener combate ayuda un montón a tener un mundo realmente abierto, ya que sin este, y sin sistemas de progresión de ningún tipo, realmente no hay ningún bloqueo a la hora de decidir a dónde ir; apenas nos sueltan al mundo somos **realmente** libres de ir a cualquier parte que nos llame la atención.
 
-{% image "./sable-1.jpg", "@gamememories._ en Instagram", [500] %}
+{% image "./sable-1.jpg", "@gamememories._ en Instagram", [1000] %}
 
 Creo que Sable es soberbio en aspectos de estructura y *gameplay*. Nada sobreextiende su bienvenida, y todos los sistemas están muy bien entrelazados entre sí. De hecho, incluso el hecho de que estemos completando misiones para todo el mundo tiene su porqué.
 
 Y es que en donde más destaca este juego es en su narrativa y su forma de contarla. En Sable todo tiene una razón de ser, y todo tiene un lugar en el mundo y la historia. Casi todas las misiones que completemos nos darán un emblema de la profesión de quien nos dio la misión, y si juntamos 3, podremos obtener la máscara de esta profesión, con la cual podremos decidir el futuro de Sable.
 
-{% image "./sable-2.jpg", "@gamememories._ en Instagram", [500] %}
+{% image "./sable-2.jpg", "@gamememories._ en Instagram", [1000] %}
 
 Y es que el juego puede acabar muy pronto... si es que quieres que sea así. En menos de 3 horas ya puedes conseguir una máscara e ir a terminar el juego. Pero, ¿realmente quieres que Sable se dedique toda su vida a algo que encontró en 3 horas? 
 

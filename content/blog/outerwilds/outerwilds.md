@@ -1,8 +1,9 @@
 ---
 title: Outer Wilds
-description: La obra maestra de explorar un pequeño sistema solar.
-date: 2024-01-03
+description: Comentario sobre Outer Wilds.
+date: 2023-12-11
 tags: juegos
+mainimage: ../content/blog/outerwilds/outer-wilds-2.jpg
 ---
 
 > *Está canción es nueva para mí, pero me honra formar parte de ella*
@@ -15,7 +16,7 @@ Y mira que no es un juego que haya amado al primer intento, pues ya había inten
 
 Esta vez conecté. Esta vez conecté los puntos que mi curiosidad me llevaba a descubrir. 
 
-{% image "./outer-wilds-2.jpg", "https://www.echosmoker.com/", [500] %}
+{% image "./outer-wilds-2.jpg", "https://www.echosmoker.com/", [1000] %}
 
 Descubrí un universo de historias distintas, pero que terminaban todas convergiendo en un punto común. Descubrí un hilo del que tirar, el que me llevó a resolver el mayor misterio del juego (y de su historia). Descubrí un montón de diálogos increíbles, que me ayudaron a entender la historia, pero también a empatizar con ella y con los personajes que la llevaron a cabo.
 
@@ -25,6 +26,6 @@ Y al final entendí mi lugar en el universo. Y entendí cosas que suceden en el 
 
 > *Las estrellas eran hermosas, ¿no es cierto? Incluso si nuestra estrella fue la causa de nuestra muerte*
 
-{% image "./outer-wilds-1.jpg", "https://www.echosmoker.com/", [500] %}
+{% image "./outer-wilds-1.jpg", "https://www.echosmoker.com/", [1000] %}
 
-Outer Wilds es una obra maestra. 
+Outer Wilds es una obra maestra.

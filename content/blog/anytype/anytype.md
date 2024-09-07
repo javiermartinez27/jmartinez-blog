@@ -4,12 +4,13 @@ description: Cómo estoy usando Anytype para organizar mi mente.
 date: 2023-12-11
 tags: otros
 image: "https://mattgiaro.com/wp-content/uploads/2022/09/second-brain-content-creators-logo.png"
+mainimage: ../content/blog/anytype/anytype-002.jpg
 ---
 Este año tuve un par de cambios. Me fui a vivir con mi pareja, siendo nuestra primera vez viviendo solos. Adoptamos un perro. Me cambié de trabajo. Nueva ciudad, nueva mascota, gente nueva. ~~Muchos~~ Nuevos gastos. 
 
 Bueno, tuve varios cambios.
 
-{% image "./anytype-001.jpg", "Sigan al @anakinpompin en Instagram", [500] %}
+{% image "./anytype-001.jpg", "Sigan al @anakinpompin en Instagram", [1000] %}
 
 Estar viviendo en pareja me hizo darme cuenta de varias cosas, pero hay una en particular que me perturbó por sobre otras... **tengo pésima memoria**. Y, como guinda de la torta, olvidarme de las cosas me genera muuucha ansiedad.
 
@@ -31,7 +32,7 @@ Al final, me di el tiempo, y vi los videos introductorios de Anytype. **Y leí l
 
 Hoy, tengo mi página principal en donde puedo acceder rápidamente a diferentes secciones (que yo creé). Tengo una sección para el trabajo, para mis hobbies, para las cosas que quiero aprender, mis planes, pensamientos *random* (mis notas, lo que quería hacer en primer lugar), y otras cosas útiles. Además, en esta misma página principal, tengo una lista To-Do, donde tengo mis tareas pendientes del día (las cuales anoto apenas entran en mi cabeza). Finalmente, tengo mis proyectos, a los cuales puedo acceder rápidamente para ver en qué estoy y qué tengo pendiente.
 
-{% image "./anytype-002.jpg", "Mi segundo cerebro; my brain't", [500] %}
+{% image "./anytype-002.jpg", "Mi segundo cerebro; my brain't", [1000] %}
 
 Lo más potente de todo esto, es la capacidad de, hoy, organizar todo lo que quiero organizar. Por ejemplo, si antes tenía una página de la libreta en donde ponía los juegos que había jugado en el año, hoy creo una nota con el título del juego, y le pongo como "propiedad" el año en que lo jugué. Después, puedo crear un filtro en mi sección donde veo todos mis juegos, y ver automáticamente los juegos que he jugado durante el año. Así con cualquier propiedad que se me ocurra, como el año en que salió el juego, cuántas horas lo jugué, si lo terminé o no, etc.
 

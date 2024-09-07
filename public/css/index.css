@@ -128,9 +128,20 @@ main {
 }
 
 .post-container {
-	padding: 1rem 25vw;
 	margin: 0px auto;
+	width: 90%;
 }
+
+.post-container p {
+	width: 70%;
+	margin: 2rem auto;
+}
+
+.post-container p:has(img) {
+	width: 100%;
+	margin: 2rem auto 0.5rem auto;
+}
+
 
 .links-nextprev {
 	list-style: none;
@@ -380,6 +391,11 @@ footer {
 	
 	.postlist-content {
 		margin-bottom: 2em;
+	}
+
+	.post-container p {
+		width: 90%;
+		margin: 2rem auto;
 	}
 
 	#post-data {

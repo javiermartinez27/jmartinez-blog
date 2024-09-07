@@ -18,7 +18,7 @@ Y la verdad es que todas esas decisiones me hicieron disfrutar aún más el jueg
 
 Por lo que entré al DLC así, con una mucha mejor impresión de la que quedé la última vez que lo jugué.
 
-{% image "./eldenring2.JPG", "@gamememories._ en Instagram", [500] %}
+{% image "./eldenring2.JPG", "@gamememories._ en Instagram", [1000] %}
 
 Mi impresión de *Shadow of the Erdtree* es que, básicamente, es más *Elden Ring*. En lo bueno y en lo malo. Comete los mismos errores del juego base, como jefes "injustos", zonas demasiado vacías y/o enemigos que se repiten, mientras que los momentos buenos vuelven a ser tan altos (o incluso más) como los de Las Tierras Intermedias.
 
@@ -26,13 +26,13 @@ La historia es maravillosa, nuevamente. Aún más, puesto que se le añade un to
 
 La exploración también es 10/10. Nuevamente, puede que sea incluso un poco más, porque aquí no está la "gracia" que te guiaba hacia tus próximos objetivos. No soy fan de esta mecánica en el juego base porque siento que está de sobra; en Limgrave es evidente que tienes que ir al Castillo, en Liurnia es evidente que tienes que ir a la Academia, en Leyndell es evidente que tienes que ir a la zona con una ciudad gigante. Bueno, aquí no existe esta guia, y aunque al comienzo puede que sea un poco confuso, no pasan más de un par de horas antes de que tengas claro cuál es el objetivo final del juego y dónde tienes que ir para lograr llegar.
 
-{% image "./eldenring3.JPG", "@gamememories._ en Instagram", [500] %}
+{% image "./eldenring3.JPG", "@gamememories._ en Instagram", [1000] %}
 
 Nuevamente, la variedad de armas, opciones en el combate y jefes es abrumadora, pero incluso aquí el juego mejora un poco, porque, a pesar de que hay un par de jefes que se repiten, estos son lo mínimo, a diferencia del juego base en donde hay como 242134230 avatares del Terrárbol y otros 7567560 hombre-bote.
 
 No obstante, los bajos también son bien bajos. En la parte sur del mapa hay una zona bastante grande, muy bonita, pero en la que no hay prácticamente nada. Peor aún, lo poco que hay son un par de jefes que se repiten del juego base. Además, se hace importante ir, porque aunque no es obligatorio, sí hay un jefe y un personaje bien relevante para la historia.
 
-{% image "./eldenring4.JPG", "@gamememories._ en Instagram", [500] %}
+{% image "./eldenring4.JPG", "@gamememories._ en Instagram", [1000] %}
 
 Sin embargo, lo peor (al menos para un *purista* de los *souls*), es que los jefes siguen sin estar diseñados para ser combatidos en solitario. Sí, al igual que el juego base, se pueden derrotar en solitario, pero cuando hay combos infinitos, zonas enormes de ataque en área, una agresividad impresionante, **justo en el juego en que las invocaciones son posibles para todos los jefes**, es porque, al momento de diseñarlos, se hizo teniendo en mente estas opciones que el jugador tendrá.
 
@@ -40,7 +40,7 @@ Lamentablemente, la inteligencia de los enemigos sigue sin estar preparada para 
 
 Ah, también siguen habiendo demasiados mini-dungeons que se vuelven repetitivos apenas encuentras el segundo.
 
-{% image "./eldenring5.JPG", "@gamememories._ en Instagram", [500] %}
+{% image "./eldenring5.JPG", "@gamememories._ en Instagram", [1000] %}
 
 En términos generales, mis sensaciones con *Elden Ring* siguen siendo las mismas. Tiene momentos en que es el mejor juego de la historia, sobre todo cuando te metes de lleno en el mundo y en su historia, pero también tiene momentos que son muy frustrantes por decisiones estúpidas como reutilizar a un jefe 14 veces.
 

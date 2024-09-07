@@ -15,7 +15,7 @@ Tiene sus cosas buenas, como que la construcción de bases está muy mejorada (a
 
 Una de las cosas que me encantó del original era que cada descubrimiento lo tenías que hacer tú; leyendo, reconociendo los hábitats, traingulando coordenadas, viendo la brújula. No sé si esto era efectivamente así o yo deshabilité los marcadores en ese juego, pero en este me aburrió que me dijeran todo el tiempo lo que tenía que hacer, sobre todo cuando lo que yo quería era hacerme una base bonita.
 
-{% image "./below-zero.jpg", "Mira, no era tan así, pero te juro que así se sentía", [500] %}
+{% image "./below-zero.jpg", "Mira, no era tan así, pero te juro que así se sentía", [1000] %}
 
 ## Ooblets
 
@@ -25,7 +25,7 @@ Tristemente, esto es todo lo que el juego tiene. Es el típico caso de abarcar m
 
 Rasca por un rato la fibra *Stardew Valley*, pero cuando te das cuenta de que lo que estás viendo en 4 horas es lo que hay, y no habrá más profundidad, pierde la magia.
 
-{% image "./ooblets.jpg", "cute", [500] %}
+{% image "./ooblets.jpg", "cute", [1000] %}
 
 ## Morrowind
 
@@ -35,7 +35,7 @@ No jugué demasiado, aunque alcancé a ver sus encantos. Es bonito (tanto como p
 
 Todo esto puede tener su encanto si es que vas preparado para ello. Yo pensé que lo iba, pero no sé si estaba **tan** preparado. No obstante, no descarto volver a él en un futuro.
 
-{% image "./morrowind.jpg", "La verdad, yo quería ser este tipo", [500] %}
+{% image "./morrowind.jpg", "La verdad, yo quería ser este tipo", [1000] %}
 
 ## Cyberpunk 2077
 
@@ -47,7 +47,7 @@ Las actualizaciones buscaban transformar el juego en una especie de GTA; ahora p
 
 Si lo volví a jugar fue porque me interesó el DLC, porque sigo pensando que la historia es decente y que Night City es la mejor ciudad que se ha creado en videojuegos. No obstante, el venir de Fallout New Vegas me llevó a querer hacer un poco de *Role-play* y este juego no sirve para esto. *Bueno*, me dije, entonces tratemos de convertirnos en mejores mercenarios, teniendo más dinero y mejor equipamiento, pero tampoco sirve para *grindear* mejor equipamiento y dinero, porque todo el equipamiento está bloqueado detrás de un sistema de reputación que solo mejoras haciendo misiones.
 
-{% image "./cp2077.jpg", "@gamememories._ en Instagram", [500] %}
+{% image "./cp2077.jpg", "@gamememories._ en Instagram", [1000] %}
 
 Lo que me terminó sacando fue una misión en particular, en donde me pidieron incapacitar a alguien sin matarlo en la medida de lo posible. Bien, traté de ser sigiloso; el juego no me dejó, porque como era una especie de minijefe, apenas entras en un radio cercano a él se activa el combate. Bueno, dije, entonces usemos combate cuerpo a cuerpo para no matarlo con la escopeta que estaba usando en ese momento. Tampoco se puede; el enemigo tiene un Sandevistan y equiva absoluamente todos tus ataques cuerpo a cuerpo. Ok, me aburrí, escopeta y obtenemos la mitad de la recompensa porque lo voy a matar. *¡No! ¡Recompensa completa!*. Resulta que pegarle 25 escopetazos en la cara a alguien no es suficiente para matarlo, así que efectivamente solo quedó incapacitado.
 
@@ -63,6 +63,6 @@ Solo 3 cosas que mencionar sobre este juego, porque probablemente en un futuro h
 2. Es uno de los mejores juegos que he jugado nunca.
 3. Lo tengo en *stand-by*, porque tiene tanto contenido, y juega a una escala tan grande, que cada cierto tiempo me abrumo (solo para después volver y meterle 20 horas de golpe).
 
-{% image "./satisfactory.jpg", "Algo así se veía mi primera base. Hoy soy Dios", [500] %}
+{% image "./satisfactory.jpg", "Algo así se veía mi primera base. Hoy soy Dios", [1000] %}
 
 Eso queso.

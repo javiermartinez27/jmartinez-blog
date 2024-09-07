@@ -10,7 +10,7 @@ mainimage: ../content/blog/ff7/ff7-main.gif
 
 Esta vez lo empecé a jugar en mi consola principal (que hoy es la Steam Deck), totalmente decidido a disfrutarlo, y vaya que fue así, porque incluso cuando hay algunas cosas que muestran su edad, creo que *Final Fantasy VII* es un juegazo y justifica su condición de clásico de todos los tiempos. De hecho, creo que si lo hubiese jugado en mi niñez, habría sido uno de esos títulos que te marcan para toda la vida (y quizás le habría tenido un poco más de cariño a los JRPG).
 
-{% image './ffvii-1.gif', 'Final Fantasy VII', [500] %}
+{% image './ffvii-1.gif', 'Final Fantasy VII', [1000] %}
 
 Y es que, aún teniendo casi 30 años, la historia sigue siendo increíble. A pesar de que a veces peca un poco de ser confusa, explora muy bien los temas que se propone, como el explorar a fondo la identidad propia, o el efecto que las megacorporaciones tienen sobre el planeta. También son super potentes los giros de trama que tiene, así como ciertos momentos extremadamente emotivos que ocurren bien avanzado el juego (no por nada tiene una de las muertes más célebres de la historia del medio). No me llego ni a imaginar el impacto que debe haber tenido en su momento de lanzamiento, considerando que no creo que hayan sido temas muy comunes en la industria en 1997. 
 

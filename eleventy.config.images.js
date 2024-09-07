@@ -45,7 +45,7 @@ module.exports = eleventyConfig => {
 		// let height = widths ? widths[0] * dimensions.height / dimensions.width : dimensions.height;
 
 		if(showText) {
-			return eleventyImage.generateHTML(metadata, imageAttributes) + `<p style="font-size: 0.75rem;text-align: center">${alt}</p>`
+			return eleventyImage.generateHTML(metadata, imageAttributes) + `<p style="font-size: 0.75rem;text-align: center;margin-top: 0.5rem">${alt}</p>`
 		} else {
 			return eleventyImage.generateHTML(metadata, imageAttributes)
 		}

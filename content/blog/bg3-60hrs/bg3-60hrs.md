@@ -14,7 +14,7 @@ La segunda partida va muchísimo mejor. Ahora entiendo, en gran parte, cómo fun
 
 Luego de estas 60 horas tengo opiniones bien variadas. La historia va bien; no puedo opinar mucho porque no siento que haya avanzado demasiado, pero el *worldbuilding* y la construcción de los personajes (y su personalidad) es absolutamente TOP. También está muy bien la libertad para afrontar todo; la historia puedes agarrarla de cualquier parte, hacer cualquier cosa en cualquier orden, y el juego se adapta para que todo tenga sentido, mientras que en los combates casi todas tus ideas son factibles, desde lanzar hechizos directos, hasta usar a un enemigo como arma para golpear a otro enemigo.
 
-{% image "./bg3-1.jpg", "", [500] %}
+{% image "./bg3-1.jpg", "", [1000] %}
 
 Detesto completamente el tutorial del juego (o la falta de este, en verdad). Se dice que todo el Acto 1 es realmente un tutorial para el resto del juego, pero incluso si fuese así, es un tutorial terrible. Todas las explicaciones del juego se hacen a través de cuadros de texto, y la verdad es que incluso el contenido de estos es bastante pobre. Tuve que recurrir a videos y páginas externas para entender medianamente bien el sistema de combate, así como para entender por qué ciertas cosas ocurren cuando hago ciertas acciones.
 
@@ -24,6 +24,6 @@ Otra cosa que no me gustó (y que no entiendo por qué se diseñó así), es que
 
 No obstante, algo que me está encantando es que, cuando recuerdo cada cosa que he hecho en el juego, por más mínima que sea, lo recuerdo con mucho cariño y como si hubiese sido una historia épica que solo encuentro en libros. Esa especie de narrativa emergente es difícil de encontrar y creo que BG3 lo hace muy bien.
 
-{% image "./bg3-2.jpg", "", [500] %}
+{% image "./bg3-2.jpg", "", [1000] %}
 
 Eso, por ahora. Me estoy tomando con calma el juego porque sé que es muy largo, y realmente no estoy acostumbrado a jugar juegos así.

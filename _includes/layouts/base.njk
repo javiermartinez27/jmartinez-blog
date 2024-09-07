@@ -4,6 +4,9 @@
 		<link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
 		<link rel="preload" href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" as="style">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ title or metadata.title }}</title>
@@ -35,7 +38,7 @@
 		<style>
 			{% getBundle "css" %}
 			body {
-				font-family: "Raleway", sans-serif;
+				font-family: 'Libre Franklin', -apple-system, 'Helvetica Neue', sans-serif;
 			}
 		</style>
 		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}

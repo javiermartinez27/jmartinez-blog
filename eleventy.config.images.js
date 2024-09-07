@@ -28,21 +28,20 @@ module.exports = eleventyConfig => {
 			formats,
 			outputDir: path.join(eleventyConfig.dir.output, "img"), // Advanced usage note: `eleventyConfig.dir` works here because we’re using addPlugin.
 		});
-		
 
+		// Needed cause eleventyImage make GIFs look weird
+		let dimensions = sizeOf(file);
+		let width = widths ? widths[0] : dimensions.width;
+		let height = widths ? widths[0] * dimensions.height / dimensions.width : dimensions.height;
+		
 		// TODO loading=eager and fetchpriority=high
 		let imageAttributes = {
 			alt,
 			sizes,
-			class: "img-container",
+			class: "img-container " + (widths < height ? "vertical-img" : ""),
 			loading: "lazy",
 			decoding: "async",
 		}; 
-		
-		// // Needed cause eleventyImage make GIFs look weird
-		// let dimensions = sizeOf(file);
-		// let width = widths ? widths[0] : dimensions.width;
-		// let height = widths ? widths[0] * dimensions.height / dimensions.width : dimensions.height;
 
 		if(showText) {
 			return eleventyImage.generateHTML(metadata, imageAttributes) + `<p style="font-size: 0.75rem;text-align: center;margin-top: 0.5rem">${alt}</p>`

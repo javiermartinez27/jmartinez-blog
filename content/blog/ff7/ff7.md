@@ -16,9 +16,13 @@ Y es que, aún teniendo casi 30 años, la historia sigue siendo increíble. A pe
 
 Otra cosa que me parece increíble es la exploración, y cómo se recompensa e incentiva esta misma. No solo encuentras objetos, armas y magias (que aquí se llaman materias) repartidos por todo el mapa, sino que también hay subtramas de los personajes secundarios, exploración y explicación del mundo del juego, mecánicas y mini-juegos que solo se utilizan en ciertas partes del mapa, etc. El juego no tiene ningún miedo de esconder sus mejores cartas solo para quienes están dispuestos a buscarlas, y eso yo lo aprecio un montón.
 
+{% image './ff7-2.jpeg', 'Final Fantasy VII', [1000] %}
+
 También me gusta mucho que no te lleve de la mano, más allá de pasarte un mapa y darte un par de explicaciones de donde tienes que ir. Entiendo que esto era común antes, en donde incluso esto se utilizaba como forma de alargar la duración de los juegos, pero no puedo evitar sentirlo como aire fresco dentro de una industria que últimamente está obsesionada porque los jugadores no se pierdan, agregando marcadores, flechas, minimapas, compases, líneas, diarios y un sin fin de cosas que, francamente, el 90% del tiempo son innecesarias
 
 El apartado artístico también es de 10. Incluso para un juego tan antiguo, es fácil apreciar la dedicación que se le dio a estos escenarios pre-renderizados, así como la música que acompaña tan bien cada uno de los momentos de la historia. Mención especial también a las animaciones, que saben utilizar extremadamente bien los pocos polígonos que el *hardware* de la época permitía.
+
+{% image './ff7-3.gif', 'Final Fantasy VII', [1000] %}
 
 El combate no me termina de convencer. Me parece que, en su punto más alto, es potencial perdido, mientras que en su punto más bajo es bastante simple. No me gusta que cada personaje pueda usar solo un tipo de arma, porque de repente encuentras recompensas que no te sirven para el grupo que llevas en tu partida (a pesar de que el juego haga esfuerzos en que varies a los personajes), pero tampoco me gusta que los personajes y magias, en general, son tan flexibles, que cualquiera puede ser mago, healer, tanque o de ataque físico.
 
@@ -27,5 +31,7 @@ El combate no me termina de convencer. Me parece que, en su punto más alto, es 
 El sistema para combinar materias y que estan tengan distintos efectos está bien. Supongo.
 
 Square Enix está sobreexplotando esta entrega hoy en día; dividiendo el remake en 3 partes, haciando juegos para celular, remakes de la precuela y quién sabe qué otras cosas, pero es que, ¿cómo no hacerlo? *Final Fantasy VII* es un juegazo, y el amor que la gente le tiene respalda esto.
+
+{% image './ff7-4.gif', 'Final Fantasy VII', [1000] %}
 
 Me encantó este juego, sobre todo por su ambientación. Amé su mundo y sus personajes, a un nivel que hoy quiero jugar la precuela y el remake.

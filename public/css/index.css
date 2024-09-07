@@ -137,11 +137,14 @@ main {
 	margin: 2rem auto;
 }
 
+.post-container p:has(img.vertical-img) {
+	width: 50%;
+}
+
 .post-container p:has(img) {
 	width: 100%;
 	margin: 2rem auto 0.5rem auto;
 }
-
 
 .links-nextprev {
 	list-style: none;
@@ -369,6 +372,10 @@ footer {
 
 	a > img {
 		width: 100% !important;
+	}
+
+	.post-container p:has(img.vertical-img) {
+		width: 90%;
 	}
 
 	.postlist {

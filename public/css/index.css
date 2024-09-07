@@ -99,6 +99,10 @@ a {
 	color: var(--text-color);
 }
 
+a > img {
+	width: 50% !important;
+}
+
 h1{
 	font-size: 1.5rem; /* 32px /16 */
 }
@@ -350,6 +354,10 @@ footer {
 @media screen and (max-width: 900px) {
 	body{
 		max-width: 90%;
+	}
+
+	a > img {
+		width: 100% !important;
 	}
 
 	.postlist {

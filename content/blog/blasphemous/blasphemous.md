@@ -45,7 +45,7 @@ Las peleas contra los jefes suelen ser maravillosas eso sí. Lástima que no rec
 
 {% image "./blasphemous-5.jpg", "Ni siquiera es una señora :(", [1000] %}
 
-El diálogo se pasa un poco de críptico. Sé que es hipócrita que lo critique, porque Dark Souls/Bloodborne/Elden Ring hacen lo mismo, pero donde donde los juegos de From Software suelen dar en el tono preciso, Blasphemous se pasa para el extremo en que a veces las frases están, de frentón, mal dichas, considerando que hay un personaje que nos dice *Vigilad los vuestros pasos* (y no es problema de traducción porque el juego es español). 
+El diálogo se pasa un poco de críptico. Sé que es hipócrita que lo critique, porque Dark Souls/Bloodborne/Elden Ring hacen lo mismo, pero donde los juegos de From Software suelen dar en el tono preciso, Blasphemous se pasa para el extremo en que a veces las frases están, de frentón, mal dichas, considerando que hay un personaje que nos dice *Vigilad los vuestros pasos* (y no es problema de traducción porque el juego es español). 
 
 Las misiones son tal cual Dark Souls; imposibles de seguir. Pero donde en ese juego ~~que he referenciado demasiadas veces en esta nota~~ sirven para encontrar algo de lore y/o quizás algún ítem, en Blasphemous son absolutamente necesarias para encontrar zonas completas y encontrar los finales verdaderos del juego. Y sí, hay un par de finales que están ligados a algunas quest en Dark Souls 3 y en Elden Ring, pero se entiende el punto. 
 

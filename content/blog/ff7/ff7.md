@@ -1,7 +1,7 @@
 ---
 title: Final Fantasy VII (1997)
 description: Comentario sobre el mítico JRPG
-date: 2024-08-01
+date: 2024-09-06
 tags: juegos
 mainimage: ../content/blog/ff7/ff7-main.gif
 ---

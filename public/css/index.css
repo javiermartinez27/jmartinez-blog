@@ -144,6 +144,17 @@ main {
 	margin: 2rem auto 0.5rem auto;
 }
 
+.left-post-data {
+	margin-right: 5vw;
+	text-align: left;
+}
+
+.right-post-data {
+	margin-left: 5vw;
+	text-align: right;
+}
+
+
 .links-nextprev {
 	list-style: none;
 	border-top: 1px dashed var(--divider-color);
@@ -410,6 +421,18 @@ footer {
 
 	.postlist-image-wrapper{
 		display: none;
+	}
+
+	.left-post-data {
+		text-align: center;
+		margin-right: unset;
+		width: 100%;
+	}
+
+	.right-post-data {
+		text-align: center;
+		margin-left: unset;
+		width: 100%;
 	}
 
 }

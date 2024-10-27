@@ -8,12 +8,12 @@
 			{% if post.data.mainimage %}
 				{% image post.data.mainimage, "", [1000], "", false %}
 			{% endif %}
-			<div id="post-data">
+			<div id="post-data" class="right-post-data">
 				<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
 				<p style="font-size: 1em; margin-top: 0.2rem;">{{ post.data.description }}</p>
 			</div>
 		{% else %}
-			<div id="post-data">
+			<div id="post-data" class="left-post-data">
 				<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
 				<p style="font-size: 1em; margin-top: 0.2rem;">{{ post.data.description }}</p>
 			</div>

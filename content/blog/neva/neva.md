@@ -24,7 +24,7 @@ Pero al final, toda esa euforia por querer ser más termina perjudicando el mens
 
 ¿Cuál es la intención de Neva? ¿Qué quiere transmitir? En un comienzo, pareciera ser que quiere hablar sobre cuidar a alguien que te necesita. En el primer capítulo logra hacerlo hasta cierto punto, pues Neva es muy débil e ingenua; tendremos que salvarla de los enemigos, y se esconderá cuando estos aparezcan.
 
-Pero más adelante, ella ya no tiene miedo y nos ayudará en combate. Incluso nos salvará en más de una ocasión (lo que da a escenas no scripteadas bien bonitas). Pero, por alguna razón, el juego luego introduce una mecánica en la que, literalmente, podremos controlar a Neva, lo que termina entorpeciendo toda esa vuelta al mensaje en que ahora Neva la que nos cuida a nosotros pues, si nosotros la controlamos, entonces no es ella la que cuida a nuestra protagonista, somos nosotros.
+Más adelante, ella ya no tiene miedo y nos ayudará en combate. Incluso nos salvará en más de una ocasión (lo que da a escenas no scripteadas bien bonitas), dándole la vuelta al mensaje de una manera bien interesante, pues ahora es Neva la que nos cuida. Pero, por alguna razón, el juego luego introduce una mecánica en la que, literalmente, podremos controlar a Neva, lo que termina entorpeciendo todo esto, pues si nosotros controlamos a Neva, entonces no es ella la que cuida a nuestra protagonista, somos nosotros.
 
 Lo que me lleva a mi problema principal del juego: ¿por qué ~cresta~ necesita tener combate?
 

@@ -110,6 +110,14 @@ h3 {
 	font-size: 1.25rem; /* 20px /16 */
 }
 
+.post-container > h3 {
+	text-align: center;
+}
+
+hr {
+	margin: 2.5rem 0;
+}
+
 p:last-child {
 	margin-bottom: 0;
 }

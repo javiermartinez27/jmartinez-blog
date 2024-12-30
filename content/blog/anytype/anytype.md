@@ -2,7 +2,7 @@
 title: Anytype y mi segundo cerebro
 description: Cómo estoy usando Anytype para organizar mi mente.
 date: 2023-12-11
-tags: otros
+tags: random
 image: "https://mattgiaro.com/wp-content/uploads/2022/09/second-brain-content-creators-logo.png"
 mainimage: ../content/blog/anytype/anytype-002.jpg
 ---

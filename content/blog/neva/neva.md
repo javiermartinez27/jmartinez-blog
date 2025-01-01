@@ -1,7 +1,7 @@
 ---
 title: Neva es mi mayor decepción del 2024
 description: Comentario sobre el nuevo título del Nomada Studio.
-date: 2024-26-10
+date: 2024-10-26
 tags: juegos
 mainimage: ../content/blog/neva/neva-4.JPG
 ---

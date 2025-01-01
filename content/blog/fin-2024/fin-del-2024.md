@@ -1,7 +1,7 @@
 ---
 title: Fin del 2024
 description: Un resumen de mi año
-date: 2024-31-12
+date: 2024-12-32
 tags: random
 mainimage: ../content/blog/fin-2024/b2024.jpg
 --- 
@@ -17,7 +17,9 @@ Me **encantó** *Rain World*. No lo he analizado a mayor profundidad (espero hac
 
 Quizás odiar sea una palabra muy grave y grande, pero aún pienso en *Neva* y me hace enojar. [Aquí está la nota](/blog/neva) donde explico el por qué. 
 
-{% image "./likes-1.png", "", [1000] %}
+{% image "./likes-1.png", "", [1000] %} 
+
+En otras cosas, terminé 2 eternos pendientes. [Final Fantasy VII](/blog/ff7) me pareció buenísimo y siento que aguanta perfectamente el paso del tiempo, mientras que Pokémon Heartgold es... injugable si no es en emulador.
 
 ### Películas/Series    
 *Isle of Dogs* es muy linda. En general, siento que Wes Anderson es más estilo que sustancia, pero esta película en particular me encantó y me tocó el cucharón.
@@ -40,6 +42,8 @@ La saga completa de **Trono de Cristal** me acompañó todo el año. Me la recom
 
 {% image "./likes-3.png", "", [1000] %}
 
+Al menos eso con los libros que sí me terminé. Porque también traté de leer *Tan Poca Vida* este año, y lo encontré increíblemente malo, "sucio", y poco creíble.
+
 ### Música   
 
 Esta es fácil: *Clancy* de Twenty One Pilots, y *What Happened to the Heart* de AURORA no solo son mis discos favoritos del año, si no que se convirtieron en mis discos favoritos de mis artistas favoritos. 10/10 para ambos.    
@@ -48,7 +52,7 @@ Creo que el puesto al disco que no me gustó tanto fue *GNX* de Kendrick Lamar. 
 
 {% image "./likes-4.png", "", [1000] %}
 
-*Mención especial para BRAT. Que gran disco* 
+*Mención especial para BRAT. Que gran disco.* 
 
  --- 
 

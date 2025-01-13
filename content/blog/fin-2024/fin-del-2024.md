@@ -5,7 +5,7 @@ date: 2024-12-32
 tags: random
 mainimage: ../content/blog/fin-2024/b2024.jpg
 --- 
-Estoy malísimo para escribir. Por esto, **trataré** de empezar a hacer notas todos los meses, con lo que estoy haciendo y lo que hice durante el mes. Esta será la primera, aunque la haré un poco distinto por ser fin de año.
+Estoy muy malo para escribir. Por esto, **trataré** de empezar a hacer notas todos los meses, con lo que estoy haciendo y lo que hice durante el mes. Esta será la primera, aunque la haré un poco distinto por ser fin de año.
 
 Voy a revisar, muy brevemente, lo mejor y lo peor de lo que hice durante el año; las dos cosas que más me gustaron y lo que menos me gustó de todo lo que me gusta hacer.   
 

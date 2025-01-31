@@ -3,7 +3,7 @@ title: Fin del 2024
 description: Un resumen de mi año
 date: 2024-12-32
 tags: random
-mainimage: ../content/blog/fin-2024/b2024.jpg
+mainimage: ../content/blog/monthly-updates/dic-2024/b2024.jpg
 --- 
 Estoy malísimo para escribir. Por esto, **trataré** de empezar a hacer notas todos los meses, con lo que estoy haciendo y lo que hice durante el mes. Esta será la primera, aunque la haré un poco distinto por ser fin de año.
 

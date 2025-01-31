@@ -4,10 +4,13 @@
 	{% if loop.index0 <= 2 %}
 	<li>
 		<a href="{{ post.url }}" style="width: 100%;" class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		{% if loop.index0 % 2 == 0 %}
-			{% if post.data.mainimage %}
-				{% image post.data.mainimage, "", [1000], "", false %}
-			{% endif %}
+		{% if not post.data.mainimage %}
+			<div id="post-data" class="post-data-no-image">
+				<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
+				<p style="font-size: 1em; margin-top: 0.2rem;">{{ post.data.description }}</p>
+			</div>
+		{% elif loop.index0 % 2 == 0 %}
+			{% image post.data.mainimage, "", [1000], "", false %}
 			<div id="post-data" class="right-post-data">
 				<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
 				<p style="font-size: 1em; margin-top: 0.2rem;">{{ post.data.description }}</p>
@@ -17,9 +20,7 @@
 				<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
 				<p style="font-size: 1em; margin-top: 0.2rem;">{{ post.data.description }}</p>
 			</div>
-			{% if post.data.mainimage %}
-				{% image post.data.mainimage, "", [1000],  "", false %}
-			{% endif %}
+			{% image post.data.mainimage, "", [1000],  "", false %}
 		{% endif %}
 		</a>
 	</li>

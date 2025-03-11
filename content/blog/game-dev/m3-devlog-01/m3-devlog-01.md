@@ -42,7 +42,7 @@ Tengo una condición para perder, y está al 90% la condición para ganar (exist
 
 Lo último que he estado haciendo es diseñar un par de personajes, y elegir bien la paleta de colores del juego, que cambió de ser en blanco y negro (salvo las piezas con las que se juega) a algo completamente a color. Ayer solté la mano con el dibujo y llegué a algo que me gusta, lo que me motivó bastante, porque significa que el arte no será un obstáculo tan enorme. 
 
-{% image "./baldievintest.png", "No se ve muy bien acá porque tengo demasiado comprimidas las imágenes.", [500] %}
+{% image "./baldievintest.png", "No se ve muy bien acá porque tengo demasiado comprimidas las imágenes.", [1000] %}
 
 Ahora me dedicaré un tiempo a refactorizar código del tutorial que no me gusta como está (tengo un solo archivo que se encarga de toda la lógica, y eso no me gusta porque cuesta un montón encontrar cosas específicas), y empezaré a definir la estructura del juego: cómo empieza, cómo te vas moviendo entre niveles, etc.
 

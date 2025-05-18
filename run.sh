@@ -1,1 +1,1 @@
-eleventy --serve
+npm start

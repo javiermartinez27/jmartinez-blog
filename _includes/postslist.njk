@@ -29,18 +29,29 @@
 </ol>
 <ol class="postlist-grid">
 {% for post in postslist | reverse %}
-	{% if loop.index0 >= 3 and post.data.mainimage %}
-	<li>
-		<a href="{{ post.url }}" style="width: 100%;" class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-			<div class="postlist-image-wrapper">
-				{% image post.data.mainimage, "", [300],  "", false %}
-			</div>
-			<div class="postlist-content">
-				<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
-				<p style="font-size: 1em; margin-top: 0.2rem;">{{ post.data.description }}</p>
-			</div>
-		</a>
-	</li>
+	{% if loop.index0 >= 3 %}
+		{% if post.data.mainimage %}
+		<li>
+			<a href="{{ post.url }}" style="width: 100%;" class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+				<div class="postlist-image-wrapper">
+					{% image post.data.mainimage, "", [300],  "", false %}
+				</div>
+				<div class="postlist-content">
+					<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
+					<p style="font-size: 1em; margin-top: 0.2rem;">{{ post.data.description }}</p>
+				</div>
+			</a>
+		</li>
+		{% else %}
+			<li>
+				<a href="{{ post.url }}" style="width: 100%;" class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+					<div id="post-data" style="height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+						<h3 class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
+						<p style="font-size: 1em; margin-top: 0.2rem; text-align: center;">{{ post.data.description }}</p>
+					</div>
+				</a>
+			</li>
+		{% endif %}
 	{% endif %}
 {% endfor %}
 </ol>

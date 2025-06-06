@@ -143,6 +143,11 @@ main {
 	margin: 2rem auto;
 }
 
+.post-container ul, .post-container ol {
+	width: 70%;
+	margin: 2rem auto;
+}
+
 .post-container p:has(img.vertical-img) {
 	width: 50%;
 }
